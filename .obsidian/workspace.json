@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🚀 TOP 4 THỦ PHẠM KHIẾN BACKEND CHẬM NHƯ RÙA BÒ & GIẢI PHÁP! ✅/Content.md",
+                "file": "DASHBOARD TỐT VS. DASHBOARD TỆ KHÁC NHAU Ở ĐÂU/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Content"
+              "title": "README"
             }
           }
         ],
@@ -189,6 +189,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -199,8 +200,11 @@
   },
   "active": "6df43d46faa6f307",
   "lastOpenFiles": [
-    "🚀 TOP 4 THỦ PHẠM KHIẾN BACKEND CHẬM NHƯ RÙA BÒ & GIẢI PHÁP! ✅/Readme.md",
-    "🚀 TOP 4 THỦ PHẠM KHIẾN BACKEND CHẬM NHƯ RÙA BÒ & GIẢI PHÁP! ✅/Content.md",
-    "Readme.md"
+    "DASHBOARD TỐT VS. DASHBOARD TỆ KHÁC NHAU Ở ĐÂU/Content.md",
+    "DASHBOARD TỐT VS. DASHBOARD TỆ KHÁC NHAU Ở ĐÂU/README.md",
+    "🚀 TOP 4 THỦ PHẠM KHIẾN BACKEND CHẬM NHƯ RÙA BÒ & GIẢI PHÁP! ✅/README.md",
+    "README.md",
+    "DASHBOARD TỐT VS. DASHBOARD TỆ KHÁC NHAU Ở ĐÂU",
+    "🚀 TOP 4 THỦ PHẠM KHIẾN BACKEND CHẬM NHƯ RÙA BÒ & GIẢI PHÁP! ✅/Content.md"
   ]
 }
